@@ -13,6 +13,8 @@
 | !voteskip       | vote to skip the current song                        | `!voteskip`       |
 | !song           | get the URL & title of the current song              | `!song`           |
 
+If your looking to find a better and easier way to make yourself a bot here is a short video and is better then this one I have provided. https://youtu.be/NM8IMyqpvqU
+
 The preferred way to deploy this Bot is via Heroku. Using Heroku means that the bot doesn't run on your computer,
 is active 24/7 and you don't have to worry about the ffmpeg installation, which is messy. Therefore this installation guide is
 going to describe how to do it.
