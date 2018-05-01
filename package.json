@@ -2,7 +2,7 @@
   "name": "SuperBot",
   "version": "2.0.0",
   "description": "Cool playback bot with other awesome features.",
-  "main": "Bot.js",
+  "main": "bot.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
